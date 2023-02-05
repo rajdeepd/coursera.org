@@ -4,14 +4,6 @@ As I mentioned before, equations behave a lot like sentences, as they are statem
 
 
 
---
-
-
-
---
-
-
-
 ## Sentences --> Equations
 
 Which is extracting all the possible information from that system. Just like with systems of sentences, systems of linear equations can also be singular or non-singular based on how much information they carry. And as you already learned these concepts of real life sentences, you are more than ready to tackle them with equations. In the previous video, you saw sentences such as between the dog and the cat, one is black. For the rest of the course, you'll focus on sentences that carry numerical information such as this one. The price of an apple and a banana is $10. This sentence can easily be turned into equations as follows. If a is the price of an apple, and b is the price of a banana, then the equation stemming from the sentence is a + b = 10. 
@@ -83,6 +75,26 @@ So here's our recap, in the previous three quizzes, you solved three systems of 
 The reason this system has a unique solution is because both equations give you one different piece of information. Thus you're able to narrow down the solution to one unique solution. For this reason the system is complete and non-singular. The second system, has infinitely many solutions, which are any two numbers that add to 10. In this system, the two equations are the exact same one. So you never had a second equation to help you narrow down the solution to a unique one. This means the system is redundant and singular. And finally, the third system has no solution because the two equations contradict each other. Therefore, the system of equations is contradictory and singular.
 
 ## What is a Linear Equation?
+
+And finally, some clarification, you may have noticed the words linear equation several times, what does that mean? Well linear equation can be anything like: <br/>
+
+
+$a + b = 10$<br/>
+$2a + 3b = 15$<br/>
+$3.4a- 48.99b +2c = 122.5$<br/>
+anything like that. 
+
+And notice that it can have as many variables as we want. But there's a special rule that must be followed, in a linear equation, variables a, b, c etc were only allowed to have numbers or scalar is attached to them. And there's also an extra number all by itself like the 122.5 here allowed to be in the equation. 
+
+<img src="./images/Screenshot_2023-02-05_at_6.05.00_PM.png" width="90%" />
+
+So in short, you can multiply the variable by scalars and then add them or subtract them and then add a constant and that's it. So what's an equation that's non-linear? 
+
+<img src="./images/Screenshot_2023-02-05_at_6.05.30_PM.png" width="90%" />
+
+Well, non-linear equations can be much more complicated. They can have squares like a squared b squared. They can have things like sine, cosine, tangent arctan, anything like that powers like b to the 5. They can have powers like 2 to the a or 3 to the b. And furthermore, you can actually multiply the a's and b's. In linear questions you can only add them, but in a non-linear equation you can have ab squared, b divided by a, 3 divided by b, things like logarithms, anything along those lines.
+
+So linear algebra is the study of linear equations like the ones in the left. And since they're much simpler then there are many things you can do with them, such as manipulating them and extracting information out of them. So we're only going to worry about the linear equations in the left. And the reason it's called linear algebra its because it's the study of linear equations.
 
 
 
