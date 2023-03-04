@@ -69,7 +69,26 @@ So these are three planes that all of them go through the same line. So the set 
 
 ## System 3
 
-And finally we have this other system where the equations are a + b + c = 0, 2a + 2b + 2c = 0 and 3a + 3b + 3c = 0. The first one corresponds to a plane. Now as you've seen before, the second equation is just a multiple of the first one, so it's actually the same equation. So it's not surprising that it corresponds to the exact same plane. And the third equation also corresponds to the exact same plane. Therefore the set of solutions to the system is every single point in the plane, there are multiple solutions, and therefore this system is again singular
+And finally we have this other system where the equations are 
+
+$a + b + c = 0$
+
+$2a + 2b + 2c = 0$
+
+$3a + 3b + 3c = 0$
+
+<img src="./images/Screenshot_2023-02-24_at_10.55.39_PM.png" width="100%" />
+
+The first one corresponds to a plane. Now as you've seen before, the second equation is just a multiple of the first one, so it's actually the same equation. 
+
+<img src="./images/Screenshot_2023-02-24_at_10.55.53_PM.png" width="100%" />
+
+So it's not surprising that it corresponds to the exact same plane. And the third equation also corresponds to the exact same plane.
+
+<img src="./images/Screenshot_2023-02-24_at_10.56.07_PM.png" width="100%" />
+<img src="./images/Screenshot_2023-02-24_at_10.56.15_PM.png" width="100%" />
+
+Therefore the set of solutions to the system is every single point in the plane, there are multiple solutions, and therefore this system is again singular.
 
 
 
