@@ -1,0 +1,3 @@
+# Conclusion
+
+Well done on completing Week 1 of linear algebra. This is a great achievement and you should be proud of yourself. You started this week with a machine-learning application of linear algebra. Then you learned systems of equations and translating them into matrices. You can now extract information from matrices such as their singularity and their determinant. You are now ready to dive deeper and learn to solve any system of linear equations.
