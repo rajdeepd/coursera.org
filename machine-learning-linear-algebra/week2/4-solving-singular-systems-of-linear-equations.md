@@ -45,13 +45,13 @@ Therefore there are no solutions to the system.
 
 ## Quiz
 
-<img src="./images/Screenshot_2023-03-26_at_10.10.34_AM.png" width="70%" />
-
+### Problem
 So now you're ready for a quiz. The quiz is the following. Can you solve the following system of equations $5a + b = 11$ and $10a + 2b = 22$. 
 
 <img src="./images/Screenshot_2023-03-26_at_10.25.26_AM.png" width="70%" />
-<img src="./images/Screenshot_2023-03-26_at_10.25.52_AM.png" width="70%" />
 
+### Solution
+<img src="./images/Screenshot_2023-03-26_at_10.25.52_AM.png" width="70%" />
 
 So if you look closely into the two equations in the system, you will find that equation 2is equation 1 times two. Or equivalent if you take equation 2 and divide it by 2, you obtain equation 1. Therefore the system is singular and it has infinitely many solutions.
 
