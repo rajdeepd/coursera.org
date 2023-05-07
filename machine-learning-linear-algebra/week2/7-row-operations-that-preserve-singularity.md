@@ -35,3 +35,21 @@ Let's use the same matrix with determinant 11. Now, let's modify the first row. 
 Because in each of the diagonals, you have taken exactly one element, the one on the top row, and multiplied it by 10 so the whole thing gets multiplied by 10. Now notice that the scalar has to be non-zero. In the scalar that 10 is non-zero, then this operation turns a non-zero determinant into non-zero determinant and a zero determinant into a zero determinant. Thus, this operation also preserves singularity and non-singularity
 
 ## Adding a row to another row
+
+The final operation is to take a row and add it to another row,
+
+<img src="./images/Screenshot_2023-05-07_at_2.19.53_PM.png" width="70%" />
+
+for example, let's take the sum of the first and the second row, and that is 9, 4, so 9, 4 is going to be the top one of the rows in the matrix, and the bottom one is going to be the same. 
+
+<img src="./images/Screenshot_2023-05-07_at_2.20.21_PM.png" width="70%" />
+
+This new determinant is 9 times 3 minus 4 times 4, which is actually 11. 
+
+<img src="./images/Screenshot_2023-05-07_at_2.21.02_PM.png" width="70%" />
+
+Believe it or not, when you do this, you get the same determinant as the beginning. 
+
+<img src="./images/Screenshot_2023-05-07_at_2.21.07_PM.png" width="70%" />
+
+Proving this is slightly harder and you can find it in a written tandem in the resources of the class. But the most important part is that since the determinant stays the same after this operation, then this operation also preserves singularity and non-singularity just like the other ones.
