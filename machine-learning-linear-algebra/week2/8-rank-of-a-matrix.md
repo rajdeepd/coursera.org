@@ -54,17 +54,18 @@ The number of rows in the matrix minus the dimension of the solution space. This
 
 ## Rank and Singularity
 
+
 <img src="./images/Screenshot_2023-05-14_at_3.21.30_PM.png" width="70%" />
 
-
-
-<img src="./images/Screenshot_2023-05-14_at_3.22.32_PM.png" width="70%" />
 Notice also the first matrix is non-singular and the other two are singular. So a matrix is non-singular if and only if it has full rank, namely if the rank is equal to the number of rows. This is the same as saying that a system of equations is non-singular if it carries as many pieces of information as equations it has, meaning that you carry the maximum amount of information possible. Thus that this equation brings a new piece of information to the table and there's no redundancy between equations. 
 
 ## Quiz
 
+<img src="./images/Screenshot_2023-05-14_at_3.22.32_PM.png" width="70%" />
+
 And now you're ready for a quiz for this quiz, please determine the rank of the same two matrices you've seen recently and the solutions are in. 
 <img src="./images/Screenshot_2023-05-14_at_3.22.52_PM.png" width="70%" />
+
 <img src="./images/Screenshot_2023-05-14_at_3.23.08_PM.png" width="70%" />
 <img src="./images/Screenshot_2023-05-14_at_3.23.21_PM.png" width="70%" />
 <img src="./images/Screenshot_2023-05-14_at_3.23.34_PM.png" width="70%" />
